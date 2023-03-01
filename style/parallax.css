@@ -171,7 +171,8 @@ p.contact-info {
   }
 
   section.module.parallax{
-    width: 100vw;
+    max-width: 100vw;
+    height: auto;
   }
 }
 
