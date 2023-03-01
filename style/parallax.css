@@ -133,6 +133,11 @@ p.contact-info {
   text-align: right;
 }
 
+.map{
+  flex-grow: 1;
+  max-width: 50%;
+}
+
 .footer-container {
   display: flex;
   flex-direction: column;
