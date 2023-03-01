@@ -59,12 +59,12 @@ section.module.content:last-child{
   color: #FFF; 
  }
  
- .parallax{
+ section.module.parallax{
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 100vh !important;
-  width: 100%;
+  width: 100vw;
   position: relative;
   overflow: hidden;
   background-position: 50% 50%;
