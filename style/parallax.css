@@ -63,8 +63,8 @@ section.module.parallax{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
-  width: 100% !important;
+  height: 100vh !important;
+  width: 100vw !important;
   position: relative;
   overflow: hidden;
   background-position: 50% 50%;
