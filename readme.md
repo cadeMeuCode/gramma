@@ -14,7 +14,7 @@ is not responsive yet.
 I mean, i wanna code a mobile version for that project, but, i'm thinking how i gonna do that yet.  
 Suggestions is welcome.
 
-### 🔧 scrollReveal
+### 🔧 Scroll Reveal JS
 
 To install the scrollReveal library, i'm followed the guide on official website.  
 
@@ -40,7 +40,5 @@ I'm not sure about that yet
 
 ## 🎁 Thanks
 
-* Thanks to scrollReveal creators 📢;
-* Thanks to Alura 🍺;
-* Thanks to starbucks🫂;
-
+* Thanks to scrollReveal creators;
+* Alura.
