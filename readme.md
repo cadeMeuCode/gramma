@@ -1,6 +1,6 @@
 # Gramma
 
-Gramma, it's a fictional company. That company install artificial grass in Japan.  
+Gramma, it's a fictional company. That company install artificial grass in Japan to brazilian community.  
 They knows all about artificial grass and how keep grass cleaned and beautiful all seasons.  
 
 ## 🚀 What i've learned  
